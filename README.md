@@ -1,2 +1,3 @@
-# slacksite
-Slack message client proof of concept
+# Slack messaging POC
+
+Simple implementation of the Hotspot Slack-Client SDK in a Spring Boot REST webservice.
